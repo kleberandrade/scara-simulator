@@ -1,0 +1,278 @@
+fileFormatVersion: 2
+guid: 40d576c54fffc8a49ba50d26d1df4f98
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: DEFAULT
+    100002: DEFAULT 1
+    100004: DEFAULT 10
+    100006: DEFAULT 11
+    100008: DEFAULT 12
+    100010: DEFAULT 13
+    100012: DEFAULT 14
+    100014: DEFAULT 15
+    100016: DEFAULT 16
+    100018: DEFAULT 17
+    100020: DEFAULT 18
+    100022: DEFAULT 19
+    100024: DEFAULT 2
+    100026: DEFAULT 3
+    100028: DEFAULT 4
+    100030: DEFAULT 5
+    100032: DEFAULT 6
+    100034: DEFAULT 7
+    100036: DEFAULT 8
+    100038: DEFAULT 9
+    100040: DEFAULT-DC_Shell
+    100042: DEFAULT-DC_Shell 1
+    100044: DEFAULT-DC_Shell 10
+    100046: DEFAULT-DC_Shell 11
+    100048: DEFAULT-DC_Shell 12
+    100050: DEFAULT-DC_Shell 13
+    100052: DEFAULT-DC_Shell 14
+    100054: DEFAULT-DC_Shell 15
+    100056: DEFAULT-DC_Shell 16
+    100058: DEFAULT-DC_Shell 17
+    100060: DEFAULT-DC_Shell 18
+    100062: DEFAULT-DC_Shell 2
+    100064: DEFAULT-DC_Shell 3
+    100066: DEFAULT-DC_Shell 4
+    100068: DEFAULT-DC_Shell 5
+    100070: DEFAULT-DC_Shell 6
+    100072: DEFAULT-DC_Shell 7
+    100074: DEFAULT-DC_Shell 8
+    100076: DEFAULT-DC_Shell 9
+    100078: DirectConnectNode_10
+    100080: DirectConnectNode_14
+    100082: DirectConnectNode_18
+    100084: DirectConnectNode_22
+    100086: DirectConnectNode_26
+    100088: DirectConnectNode_30
+    100090: DirectConnectNode_34
+    100092: DirectConnectNode_38
+    100094: DirectConnectNode_42
+    100096: DirectConnectNode_46
+    100098: DirectConnectNode_50
+    100100: DirectConnectNode_54
+    100102: DirectConnectNode_58
+    100104: DirectConnectNode_6
+    100106: DirectConnectNode_62
+    100108: DirectConnectNode_66
+    100110: DirectConnectNode_70
+    100112: DirectConnectNode_74
+    100114: DirectConnectNode_78
+    100116: ig_SingularSubfigureInstance13083
+    100118: ig_SingularSubfigureInstance14329
+    100120: ig_SingularSubfigureInstance14463
+    100122: ig_SingularSubfigureInstance14707
+    100124: ig_SingularSubfigureInstance15109
+    100126: ig_SingularSubfigureInstance15181
+    100128: ig_SingularSubfigureInstance15429
+    100130: ig_SingularSubfigureInstance15831
+    100132: ig_SingularSubfigureInstance15835
+    100134: ig_SingularSubfigureInstance2737
+    100136: ig_SingularSubfigureInstance2989
+    100138: ig_SingularSubfigureInstance3183
+    100140: ig_SingularSubfigureInstance395
+    100142: ig_SingularSubfigureInstance4085
+    100144: ig_SingularSubfigureInstance4279
+    100146: ig_SingularSubfigureInstance4453
+    100148: ig_SingularSubfigureInstance713
+    100150: ig_SingularSubfigureInstance7785
+    100152: ig_SingularSubfigureInstance785
+    100154: ig_SingularSubfigureInstance7917
+    100156: IGES Model Data
+    100158: //RootNode
+    100160: scara 1
+    400000: DEFAULT
+    400002: DEFAULT 1
+    400004: DEFAULT 10
+    400006: DEFAULT 11
+    400008: DEFAULT 12
+    400010: DEFAULT 13
+    400012: DEFAULT 14
+    400014: DEFAULT 15
+    400016: DEFAULT 16
+    400018: DEFAULT 17
+    400020: DEFAULT 18
+    400022: DEFAULT 19
+    400024: DEFAULT 2
+    400026: DEFAULT 3
+    400028: DEFAULT 4
+    400030: DEFAULT 5
+    400032: DEFAULT 6
+    400034: DEFAULT 7
+    400036: DEFAULT 8
+    400038: DEFAULT 9
+    400040: DEFAULT-DC_Shell
+    400042: DEFAULT-DC_Shell 1
+    400044: DEFAULT-DC_Shell 10
+    400046: DEFAULT-DC_Shell 11
+    400048: DEFAULT-DC_Shell 12
+    400050: DEFAULT-DC_Shell 13
+    400052: DEFAULT-DC_Shell 14
+    400054: DEFAULT-DC_Shell 15
+    400056: DEFAULT-DC_Shell 16
+    400058: DEFAULT-DC_Shell 17
+    400060: DEFAULT-DC_Shell 18
+    400062: DEFAULT-DC_Shell 2
+    400064: DEFAULT-DC_Shell 3
+    400066: DEFAULT-DC_Shell 4
+    400068: DEFAULT-DC_Shell 5
+    400070: DEFAULT-DC_Shell 6
+    400072: DEFAULT-DC_Shell 7
+    400074: DEFAULT-DC_Shell 8
+    400076: DEFAULT-DC_Shell 9
+    400078: DirectConnectNode_10
+    400080: DirectConnectNode_14
+    400082: DirectConnectNode_18
+    400084: DirectConnectNode_22
+    400086: DirectConnectNode_26
+    400088: DirectConnectNode_30
+    400090: DirectConnectNode_34
+    400092: DirectConnectNode_38
+    400094: DirectConnectNode_42
+    400096: DirectConnectNode_46
+    400098: DirectConnectNode_50
+    400100: DirectConnectNode_54
+    400102: DirectConnectNode_58
+    400104: DirectConnectNode_6
+    400106: DirectConnectNode_62
+    400108: DirectConnectNode_66
+    400110: DirectConnectNode_70
+    400112: DirectConnectNode_74
+    400114: DirectConnectNode_78
+    400116: ig_SingularSubfigureInstance13083
+    400118: ig_SingularSubfigureInstance14329
+    400120: ig_SingularSubfigureInstance14463
+    400122: ig_SingularSubfigureInstance14707
+    400124: ig_SingularSubfigureInstance15109
+    400126: ig_SingularSubfigureInstance15181
+    400128: ig_SingularSubfigureInstance15429
+    400130: ig_SingularSubfigureInstance15831
+    400132: ig_SingularSubfigureInstance15835
+    400134: ig_SingularSubfigureInstance2737
+    400136: ig_SingularSubfigureInstance2989
+    400138: ig_SingularSubfigureInstance3183
+    400140: ig_SingularSubfigureInstance395
+    400142: ig_SingularSubfigureInstance4085
+    400144: ig_SingularSubfigureInstance4279
+    400146: ig_SingularSubfigureInstance4453
+    400148: ig_SingularSubfigureInstance713
+    400150: ig_SingularSubfigureInstance7785
+    400152: ig_SingularSubfigureInstance785
+    400154: ig_SingularSubfigureInstance7917
+    400156: IGES Model Data
+    400158: //RootNode
+    400160: scara 1
+    2300000: DEFAULT-DC_Shell
+    2300002: DEFAULT-DC_Shell 1
+    2300004: DEFAULT-DC_Shell 10
+    2300006: DEFAULT-DC_Shell 11
+    2300008: DEFAULT-DC_Shell 12
+    2300010: DEFAULT-DC_Shell 13
+    2300012: DEFAULT-DC_Shell 14
+    2300014: DEFAULT-DC_Shell 15
+    2300016: DEFAULT-DC_Shell 16
+    2300018: DEFAULT-DC_Shell 17
+    2300020: DEFAULT-DC_Shell 18
+    2300022: DEFAULT-DC_Shell 2
+    2300024: DEFAULT-DC_Shell 3
+    2300026: DEFAULT-DC_Shell 4
+    2300028: DEFAULT-DC_Shell 5
+    2300030: DEFAULT-DC_Shell 6
+    2300032: DEFAULT-DC_Shell 7
+    2300034: DEFAULT-DC_Shell 8
+    2300036: DEFAULT-DC_Shell 9
+    3300000: DEFAULT-DC_Shell
+    3300002: DEFAULT-DC_Shell 1
+    3300004: DEFAULT-DC_Shell 10
+    3300006: DEFAULT-DC_Shell 11
+    3300008: DEFAULT-DC_Shell 12
+    3300010: DEFAULT-DC_Shell 13
+    3300012: DEFAULT-DC_Shell 14
+    3300014: DEFAULT-DC_Shell 15
+    3300016: DEFAULT-DC_Shell 16
+    3300018: DEFAULT-DC_Shell 17
+    3300020: DEFAULT-DC_Shell 18
+    3300022: DEFAULT-DC_Shell 2
+    3300024: DEFAULT-DC_Shell 3
+    3300026: DEFAULT-DC_Shell 4
+    3300028: DEFAULT-DC_Shell 5
+    3300030: DEFAULT-DC_Shell 6
+    3300032: DEFAULT-DC_Shell 7
+    3300034: DEFAULT-DC_Shell 8
+    3300036: DEFAULT-DC_Shell 9
+    4300000: DEFAULT-DC_Shell
+    4300002: DEFAULT-DC_Shell
+    4300004: DEFAULT-DC_Shell
+    4300006: DEFAULT-DC_Shell
+    4300008: DEFAULT-DC_Shell
+    4300010: DEFAULT-DC_Shell
+    4300012: DEFAULT-DC_Shell
+    4300014: DEFAULT-DC_Shell
+    4300016: DEFAULT-DC_Shell
+    4300018: DEFAULT-DC_Shell
+    4300020: DEFAULT-DC_Shell
+    4300022: DEFAULT-DC_Shell
+    4300024: DEFAULT-DC_Shell
+    4300026: DEFAULT-DC_Shell
+    4300028: DEFAULT-DC_Shell
+    4300030: DEFAULT-DC_Shell
+    4300032: DEFAULT-DC_Shell
+    4300034: DEFAULT-DC_Shell
+    4300036: DEFAULT-DC_Shell
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 1
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 1
+  userData: 
